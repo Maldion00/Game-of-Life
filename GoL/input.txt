@@ -1,0 +1,10 @@
+50 50		#Width Height
+200		#Generations
+20 9		#Alive cell
+20 12		#Alive cell
+20 10		#Alive cell
+20 13		#Alive cell
+19 10		#Alive cell
+18 12		#Alive cell
+21 11		#Alive cell
+21 9		#Alive cell
